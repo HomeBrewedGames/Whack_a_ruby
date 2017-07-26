@@ -1,0 +1,30 @@
+# = Larger Step
+- = smaller sub-step
+
+# score in text at top left of screen
+# Shoot confetti when they collide (see flappy bird tutorial)
+- make it red so it's like the ruby shattered
+# play a sound that sounds like the ruby has been smashed with a hammer
+
+
+
+#Ruby accelerates constantly
+#Ruby slows down after colliding with a wall then begins accelerating again
+
+#Convert RubyIcon into just a game_object class (holds all data about each object spawned)
+and move the definitions for RubyIcon into a config file instead.
+
+# Turn the hammer into a penis and the ruby into a vagina
+# Make a spooge/cumming sound when you hit a vagina with the penis
+# Every time you hit a vagina with a penis 5 times, you hear your mother and god yelling at you
+# score in the top left corner with the words "number of vaginas fucked"
+# bullshit meter in the top left corner with the words "amount of bullshit you've had to put up with so far"
+
+# Make an entire suite of games based around the topic of how much bullshit will you tolerate before you
+decide to just stop giving a fuck. becoming more aware of it.
+Make the games as annoying as possible to get the point across.
+
+#Randomly generated RPG. Like the board is all random wherever you go. And you meet people who give you random quests
+in the game and the quests mimic like undoing realizations as you watch the character doing it. and it also gives
+real-world missions too.
+
