@@ -10,8 +10,9 @@ class RubyIcon
 		@width_radius = 25
 		@height_radius = 25
 		@rate_of_acceleration = 1
-		@visible = 30
-		@always_visible == true
+		@visible = rand(0..30)
+		@always_visible = true
+		@should_move = false
 
 		set_initial_starting_position
 		set_initial_velocity
@@ -65,8 +66,10 @@ class RubyIcon
 
 	#functions for moving the ruby icon around
 	def move_based_on_velocity
-		@current_position_on_screen[:x_axis] += @current_velocity[:x_axis]
-		@current_position_on_screen[:y_axis] += @current_velocity[:y_axis]
+		if @should_move
+			@current_position_on_screen[:x_axis] += @current_velocity[:x_axis]
+			@current_position_on_screen[:y_axis] += @current_velocity[:y_axis]
+		end
 	end
 	def bounce_off_edges
 		reverse_direction_x if is_touching_an_edge_x?

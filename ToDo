@@ -1,12 +1,15 @@
 # = Larger Step
 - = smaller sub-step
 
-# score in text at top left of screen
-# Shoot confetti when they collide (see flappy bird tutorial)
+# Make it so the rubies bounce off of one another
+- Reuse collision detection code for mouse but reverse both directions instead
+- use array of rubies and loop through it
+-- Do I have to check every other ruby for each individual ruby?
+--- just do it at first and can look for a faster solution later if necessary
+
+# Shoot confetti when hammer collides (see flappy bird tutorial)
 - make it red so it's like the ruby shattered
 # play a sound that sounds like the ruby has been smashed with a hammer
-
-
 
 #Ruby accelerates constantly
 #Ruby slows down after colliding with a wall then begins accelerating again
@@ -17,14 +20,28 @@ and move the definitions for RubyIcon into a config file instead.
 # Turn the hammer into a penis and the ruby into a vagina
 # Make a spooge/cumming sound when you hit a vagina with the penis
 # Every time you hit a vagina with a penis 5 times, you hear your mother and god yelling at you
-# score in the top left corner with the words "number of vaginas fucked"
-# bullshit meter in the top left corner with the words "amount of bullshit you've had to put up with so far"
+# implement different levels of difficulty
+# roll it into a gamestate object for all the main parameters of the game
 
-# Make an entire suite of games based around the topic of how much bullshit will you tolerate before you
-decide to just stop giving a fuck. becoming more aware of it.
-Make the games as annoying as possible to get the point across.
+# setup rspec and test it works
+- get its autotest feature working (built-in)
+# setup cucumber and test it works
+# ruby and gosu book I bought
+# setup streaming game programming on twitch
 
-#Randomly generated RPG. Like the board is all random wherever you go. And you meet people who give you random quests
-in the game and the quests mimic like undoing realizations as you watch the character doing it. and it also gives
-real-world missions too.
+# prag prog studio video course
+# rubykoans for learning the language via tdd http://rubykoans.com/windows
+# free trial course on rspec testing https://www.pluralsight.com/courses/rspec-ruby-application-testing# developing games with ruby and gosu free book: https://leanpub.com/developing-games-with-ruby/read
+# metaprogramming ruby book (see downloads folder)
+# jmonkeyengine 3.0 book (see downloads folder)
+# refacotring in ruby book (see downloads folder)
+
+# https://pragprog.com/book/rspec3/effective-testing-with-rspec-3
+# find the cucumber book
+# book on automating my project using command line apps. https://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2
+# if need faster test runs, install zeus and get it working
+
+
+
+
 

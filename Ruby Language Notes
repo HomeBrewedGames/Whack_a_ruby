@@ -1,0 +1,39 @@
+
+# Variables in ruby are a pointer/reference to the object they are assigned to
+# they are NOT the object itself. The object is elsewhere in memory.
+# And they are NOT clones of the objects values. If you change the variable, it changes
+# the actual object being referred to and not just the variable.
+
+# If you set one variable to equal another, it doesn't point to the value of the variable
+# used to assign it.
+# Instead, it points to the object the original variable pointed to.
+
+# If I don't put an explicit object before a method call, then the method gets called
+# on self automatically
+
+# tell, don't ask. Don't ask an object for it state and then calculate something on its
+# behalf and then tell the object what to do. Instead, just tell the object what to do and
+# let it internally figure out how to handle it.
+
+# Can overload default functions on built-in ruby classes. E.g. can overload to_s by
+# defining a method named to_s in a class. same for +, -, etc.
+
+# automated getters and setters
+# attr_reader :title #function title that returns the instance variable
+# attr_writer :title #writes to the instance variable
+# attr_accessor :title #sets both a reader and writer
+
+# virtual attribute. getter function that returns a derived value rather than just the
+# existing instance variable itself
+
+
+
+
+
+
+
+
+
+
+
+

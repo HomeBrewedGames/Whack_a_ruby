@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c9541fb-e905-4603-9f26-bc5843af7451" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ruby Language Notes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ToDo" afterPath="$PROJECT_DIR$/ToDo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/RubyIcon.rb" afterPath="$PROJECT_DIR$/library/RubyIcon.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/whack_a_ruby.rb" afterPath="$PROJECT_DIR$/whack_a_ruby.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,18 +20,61 @@
     <SUITE FILE_PATH="coverage/Game1@whack_a_ruby.coverage" NAME="whack_a_ruby Coverage Results" MODIFIED="1500924776762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Game1" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="whack_a_ruby.rb" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="whack_a_ruby.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/whack_a_ruby.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-28">
-              <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            <state relative-caret-position="462">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding>
-                <element signature="e#464#664#0" expanded="false" />
-                <element signature="e#953#1088#0" expanded="false" />
-                <element signature="e#1262#1449#0" expanded="false" />
-                <element signature="e#1497#1601#0" expanded="false" />
-                <element signature="e#1633#2012#0" expanded="false" />
+                <element signature="e#88#530#0" expanded="false" />
+                <element signature="e#304#370#0" expanded="false" />
+                <element signature="e#606#645#0" expanded="false" />
+                <element signature="e#682#721#0" expanded="false" />
+                <element signature="e#1834#2352#0" expanded="false" />
+                <element signature="e#1858#2237#0" expanded="false" />
+                <element signature="e#1876#2231#1" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RubyIcon.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/RubyIcon.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="502">
+              <caret line="67" column="28" lean-forward="false" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
+              <folding>
+                <element signature="e#431#906#1" expanded="false" />
+                <element signature="e#458#901#1" expanded="false" />
+                <element signature="e#718#808#0" expanded="false" />
+                <element signature="e#811#901#0" expanded="false" />
+                <element signature="e#917#1063#1" expanded="false" />
+                <element signature="e#1066#1202#0" expanded="false" />
+                <element signature="e#1091#1197#2" expanded="false" />
+                <element signature="e#1258#1285#0" expanded="false" />
+                <element signature="e#1287#1356#0" expanded="false" />
+                <element signature="e#1358#1399#0" expanded="false" />
+                <element signature="e#1401#1444#0" expanded="false" />
+                <element signature="e#1446#1511#0" expanded="false" />
+                <element signature="e#1558#1753#0" expanded="false" />
+                <element signature="e#1755#1876#0" expanded="false" />
+                <element signature="e#1878#2127#0" expanded="false" />
+                <element signature="e#2129#2733#0" expanded="false" />
+                <element signature="e#2129#2733#0" expanded="false" />
+                <element signature="e#32#4127#1" expanded="false" />
+                <element signature="e#3010#3184#1" expanded="false" />
+                <element signature="e#3194#3371#1" expanded="false" />
+                <element signature="e#3381#3444#1" expanded="false" />
+                <element signature="e#3454#3517#1" expanded="false" />
+                <element signature="e#3528#3593#1" expanded="false" />
+                <element signature="e#3603#3667#1" expanded="false" />
+                <element signature="e#3677#3732#1" expanded="false" />
+                <element signature="e#3742#3799#1" expanded="false" />
+                <element signature="e#3810#3882#1" expanded="false" />
+                <element signature="e#3892#3965#1" expanded="false" />
+                <element signature="e#3975#4045#1" expanded="false" />
+                <element signature="e#4055#4127#1" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -36,52 +83,28 @@
       <file leaf-file-name="game.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../fruity_bat-master/game.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="144" column="62" lean-forward="false" selection-start-line="144" selection-start-column="62" selection-end-line="144" selection-end-column="62" />
+            <state relative-caret-position="320">
+              <caret line="256" column="3" lean-forward="false" selection-start-line="256" selection-start-column="3" selection-end-line="256" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RubyIcon.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/library/RubyIcon.rb">
+      <file leaf-file-name="ToDo" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ToDo">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-              <folding>
-                <element signature="e#400#875#1" expanded="false" />
-                <element signature="e#886#1032#1" expanded="false" />
-                <element signature="e#1227#1254#0" expanded="false" />
-                <element signature="e#1256#1325#0" expanded="false" />
-                <element signature="e#1327#1368#0" expanded="false" />
-                <element signature="e#1370#1413#0" expanded="false" />
-                <element signature="e#1415#1480#0" expanded="false" />
-                <element signature="e#1527#1696#0" expanded="false" />
-                <element signature="e#1698#1819#0" expanded="false" />
-                <element signature="e#1821#2070#0" expanded="false" />
-                <element signature="e#2072#2676#0" expanded="false" />
-                <element signature="e#2953#3127#1" expanded="false" />
-                <element signature="e#3137#3314#1" expanded="false" />
-                <element signature="e#3324#3387#1" expanded="false" />
-                <element signature="e#3397#3460#1" expanded="false" />
-                <element signature="e#3471#3536#1" expanded="false" />
-                <element signature="e#3546#3610#1" expanded="false" />
-                <element signature="e#3620#3675#1" expanded="false" />
-                <element signature="e#3685#3742#1" expanded="false" />
-                <element signature="e#3753#3825#1" expanded="false" />
-                <element signature="e#3835#3908#1" expanded="false" />
-                <element signature="e#3918#3988#1" expanded="false" />
-                <element signature="e#3998#4070#1" expanded="false" />
-              </folding>
+            <state relative-caret-position="99">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ToDo" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ToDo">
+      <file leaf-file-name="Ruby Language Notes" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ruby Language Notes">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="513">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -90,8 +113,8 @@
       <file leaf-file-name="gosu_docs.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../fruity_bat-master/gosu_docs.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10">
-              <caret line="832" column="2" lean-forward="false" selection-start-line="832" selection-start-column="2" selection-end-line="832" selection-end-column="2" />
+            <state relative-caret-position="40887">
+              <caret line="1239" column="25" lean-forward="false" selection-start-line="1239" selection-start-column="8" selection-end-line="1239" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -109,6 +132,10 @@
       <find>ruby_icon_position</find>
       <find>d</find>
       <find>reject</find>
+      <find>write</find>
+      <find>score</find>
+      <find>default_font_name</find>
+      <find>font</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -118,8 +145,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/SpiritualAutolysis" />
-        <option value="$PROJECT_DIR$/library/RubyIcon.rb" />
+        <option value="C:/RubyDevKit/config.yml" />
+        <option value="C:/RubyDevKit32/config.yml" />
         <option value="$PROJECT_DIR$/../fruity_bat-master/game.rb" />
+        <option value="$PROJECT_DIR$/Ruby Language Notes" />
+        <option value="$PROJECT_DIR$/library/RubyIcon.rb" />
         <option value="$PROJECT_DIR$/whack_a_ruby.rb" />
         <option value="$PROJECT_DIR$/ToDo" />
       </list>
@@ -172,7 +202,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,11 +215,15 @@
               <item name="Game1" type="462c0819:PsiDirectoryNode" />
               <item name="library" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Game1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fruity_bat-master" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,7 +231,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="ruby" />
     <property name="settings.editor.splitter.proportion" value="0.21104537" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fruity_bat-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.settings.patched" value="true" />
   </component>
   <component name="RecentsManager">
@@ -257,12 +291,16 @@
       <workItem from="1500926638060" duration="6933000" />
       <workItem from="1500956982326" duration="103000" />
       <workItem from="1500957116814" duration="1619000" />
-      <workItem from="1500958780425" duration="27186000" />
+      <workItem from="1500958780425" duration="30596000" />
+      <workItem from="1501126292768" duration="6016000" />
+      <workItem from="1501199479774" duration="1229000" />
+      <workItem from="1501202553036" duration="599000" />
+      <workItem from="1501271728491" duration="3303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37405000" />
+    <option name="totallyTimeSpent" value="51962000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="101" y="-11" width="1830" height="1102" extended-state="6" />
@@ -270,10 +308,8 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19026549" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890704" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -284,6 +320,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890704" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -295,21 +333,167 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="38" />
+      <option name="time" value="39" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/whack_a_ruby.rb">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="50" column="5" lean-forward="false" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="e#88#530#0" expanded="false" />
+            <element signature="e#304#370#0" expanded="false" />
+            <element signature="e#606#645#0" expanded="false" />
+            <element signature="e#682#721#0" expanded="false" />
+            <element signature="e#1834#2352#0" expanded="false" />
+            <element signature="e#1858#2237#0" expanded="false" />
+            <element signature="e#1876#2231#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToDo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fruity_bat-master/game.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
+          <caret line="78" column="9" lean-forward="false" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fruity_bat-master/gosu_docs.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40887">
+          <caret line="1239" column="25" lean-forward="false" selection-start-line="1239" selection-start-column="8" selection-end-line="1239" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ruby Language Notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="64" lean-forward="false" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whack_a_ruby.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="50" column="5" lean-forward="false" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="e#88#530#0" expanded="false" />
+            <element signature="e#304#370#0" expanded="false" />
+            <element signature="e#606#645#0" expanded="false" />
+            <element signature="e#682#721#0" expanded="false" />
+            <element signature="e#1834#2352#0" expanded="false" />
+            <element signature="e#1858#2237#0" expanded="false" />
+            <element signature="e#1876#2231#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToDo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fruity_bat-master/game.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
+          <caret line="78" column="9" lean-forward="false" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fruity_bat-master/gosu_docs.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40887">
+          <caret line="1239" column="25" lean-forward="false" selection-start-line="1239" selection-start-column="8" selection-end-line="1239" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ruby Language Notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="64" lean-forward="false" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whack_a_ruby.rb">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#464#664#0" expanded="false" />
-            <element signature="e#953#1088#0" expanded="false" />
-            <element signature="e#1262#1449#0" expanded="false" />
-            <element signature="e#1497#1601#0" expanded="false" />
-            <element signature="e#1633#2012#0" expanded="false" />
+            <element signature="e#88#530#0" expanded="false" />
+            <element signature="e#304#370#0" expanded="false" />
+            <element signature="e#606#645#0" expanded="false" />
+            <element signature="e#682#721#0" expanded="false" />
+            <element signature="e#1834#2352#0" expanded="false" />
+            <element signature="e#1858#2237#0" expanded="false" />
+            <element signature="e#1876#2231#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToDo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ruby Language Notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fruity_bat-master/game.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
+          <caret line="78" column="9" lean-forward="false" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fruity_bat-master/gosu_docs.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40887">
+          <caret line="1239" column="25" lean-forward="false" selection-start-line="1239" selection-start-column="8" selection-end-line="1239" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whack_a_ruby.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#88#530#0" expanded="false" />
+            <element signature="e#304#370#0" expanded="false" />
+            <element signature="e#606#645#0" expanded="false" />
+            <element signature="e#682#721#0" expanded="false" />
+            <element signature="e#1834#2352#0" expanded="false" />
+            <element signature="e#1858#2237#0" expanded="false" />
+            <element signature="e#1876#2231#1" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -327,11 +511,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#464#664#0" expanded="false" />
-            <element signature="e#953#1088#0" expanded="false" />
-            <element signature="e#1262#1449#0" expanded="false" />
-            <element signature="e#1497#1601#0" expanded="false" />
-            <element signature="e#1633#2012#0" expanded="false" />
+            <element signature="e#88#530#0" expanded="false" />
+            <element signature="e#304#370#0" expanded="false" />
+            <element signature="e#606#645#0" expanded="false" />
+            <element signature="e#682#721#0" expanded="false" />
+            <element signature="e#1834#2352#0" expanded="false" />
+            <element signature="e#1858#2237#0" expanded="false" />
+            <element signature="e#1876#2231#1" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -341,11 +527,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#464#664#0" expanded="false" />
-            <element signature="e#953#1088#0" expanded="false" />
-            <element signature="e#1262#1449#0" expanded="false" />
-            <element signature="e#1497#1601#0" expanded="false" />
-            <element signature="e#1633#2012#0" expanded="false" />
+            <element signature="e#88#530#0" expanded="false" />
+            <element signature="e#304#370#0" expanded="false" />
+            <element signature="e#606#645#0" expanded="false" />
+            <element signature="e#682#721#0" expanded="false" />
+            <element signature="e#1834#2352#0" expanded="false" />
+            <element signature="e#1858#2237#0" expanded="false" />
+            <element signature="e#1876#2231#1" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -355,11 +543,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#464#664#0" expanded="false" />
-            <element signature="e#953#1088#0" expanded="false" />
-            <element signature="e#1262#1449#0" expanded="false" />
-            <element signature="e#1497#1601#0" expanded="false" />
-            <element signature="e#1633#2012#0" expanded="false" />
+            <element signature="e#88#530#0" expanded="false" />
+            <element signature="e#304#370#0" expanded="false" />
+            <element signature="e#606#645#0" expanded="false" />
+            <element signature="e#682#721#0" expanded="false" />
+            <element signature="e#1834#2352#0" expanded="false" />
+            <element signature="e#1858#2237#0" expanded="false" />
+            <element signature="e#1876#2231#1" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -378,27 +568,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/library/defstruct.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../fruity_bat-master/gosu_docs.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="832" column="2" lean-forward="false" selection-start-line="832" selection-start-column="2" selection-end-line="832" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/library/defstruct.rb" />
     <entry file="file://$PROJECT_DIR$/../fruity_bat-master/defstruct.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -406,77 +580,108 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpiritualAutolysis" />
+    <entry file="file://C:/RubyDevKit/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/RubyDevKit32/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fruity_bat-master/gosu_docs.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40887">
+          <caret line="1239" column="25" lean-forward="false" selection-start-line="1239" selection-start-column="8" selection-end-line="1239" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpiritualAutolysis">
+    <entry file="file://$PROJECT_DIR$/Ruby Language Notes">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="154" column="0" lean-forward="false" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+        <state relative-caret-position="513">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fruity_bat-master/game.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="256" column="3" lean-forward="false" selection-start-line="256" selection-start-column="3" selection-end-line="256" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/library/RubyIcon.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="502">
+          <caret line="67" column="28" lean-forward="false" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
           <folding>
-            <element signature="e#400#875#1" expanded="false" />
-            <element signature="e#886#1032#1" expanded="false" />
-            <element signature="e#1227#1254#0" expanded="false" />
-            <element signature="e#1256#1325#0" expanded="false" />
-            <element signature="e#1327#1368#0" expanded="false" />
-            <element signature="e#1370#1413#0" expanded="false" />
-            <element signature="e#1415#1480#0" expanded="false" />
-            <element signature="e#1527#1696#0" expanded="false" />
-            <element signature="e#1698#1819#0" expanded="false" />
-            <element signature="e#1821#2070#0" expanded="false" />
-            <element signature="e#2072#2676#0" expanded="false" />
-            <element signature="e#2953#3127#1" expanded="false" />
-            <element signature="e#3137#3314#1" expanded="false" />
-            <element signature="e#3324#3387#1" expanded="false" />
-            <element signature="e#3397#3460#1" expanded="false" />
-            <element signature="e#3471#3536#1" expanded="false" />
-            <element signature="e#3546#3610#1" expanded="false" />
-            <element signature="e#3620#3675#1" expanded="false" />
-            <element signature="e#3685#3742#1" expanded="false" />
-            <element signature="e#3753#3825#1" expanded="false" />
-            <element signature="e#3835#3908#1" expanded="false" />
-            <element signature="e#3918#3988#1" expanded="false" />
-            <element signature="e#3998#4070#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../fruity_bat-master/game.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="144" column="62" lean-forward="false" selection-start-line="144" selection-start-column="62" selection-end-line="144" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/whack_a_ruby.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
-          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding>
-            <element signature="e#464#664#0" expanded="false" />
-            <element signature="e#953#1088#0" expanded="false" />
-            <element signature="e#1262#1449#0" expanded="false" />
-            <element signature="e#1497#1601#0" expanded="false" />
-            <element signature="e#1633#2012#0" expanded="false" />
+            <element signature="e#431#906#1" expanded="false" />
+            <element signature="e#458#901#1" expanded="false" />
+            <element signature="e#718#808#0" expanded="false" />
+            <element signature="e#811#901#0" expanded="false" />
+            <element signature="e#917#1063#1" expanded="false" />
+            <element signature="e#1066#1202#0" expanded="false" />
+            <element signature="e#1091#1197#2" expanded="false" />
+            <element signature="e#1258#1285#0" expanded="false" />
+            <element signature="e#1287#1356#0" expanded="false" />
+            <element signature="e#1358#1399#0" expanded="false" />
+            <element signature="e#1401#1444#0" expanded="false" />
+            <element signature="e#1446#1511#0" expanded="false" />
+            <element signature="e#1558#1753#0" expanded="false" />
+            <element signature="e#1755#1876#0" expanded="false" />
+            <element signature="e#1878#2127#0" expanded="false" />
+            <element signature="e#2129#2733#0" expanded="false" />
+            <element signature="e#2129#2733#0" expanded="false" />
+            <element signature="e#32#4127#1" expanded="false" />
+            <element signature="e#3010#3184#1" expanded="false" />
+            <element signature="e#3194#3371#1" expanded="false" />
+            <element signature="e#3381#3444#1" expanded="false" />
+            <element signature="e#3454#3517#1" expanded="false" />
+            <element signature="e#3528#3593#1" expanded="false" />
+            <element signature="e#3603#3667#1" expanded="false" />
+            <element signature="e#3677#3732#1" expanded="false" />
+            <element signature="e#3742#3799#1" expanded="false" />
+            <element signature="e#3810#3882#1" expanded="false" />
+            <element signature="e#3892#3965#1" expanded="false" />
+            <element signature="e#3975#4045#1" expanded="false" />
+            <element signature="e#4055#4127#1" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ToDo">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="99">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whack_a_ruby.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="e#88#530#0" expanded="false" />
+            <element signature="e#304#370#0" expanded="false" />
+            <element signature="e#606#645#0" expanded="false" />
+            <element signature="e#682#721#0" expanded="false" />
+            <element signature="e#1834#2352#0" expanded="false" />
+            <element signature="e#1858#2237#0" expanded="false" />
+            <element signature="e#1876#2231#1" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
